@@ -1,0 +1,675 @@
+Attendance note synthetic data number one
+
+
+Ultra-Realistic Attendance Register Recreation Prompt (2000+ Word Professional Master Prompt)
+
+Create an ultra-photorealistic 4K square-format documentary photograph of a genuine Tamil Nadu Government Polytechnic College Daily Attendance Register opened flat on a desk and viewed from a perfectly centered top-down perspective.
+
+The image must look exactly like a real attendance register maintained manually by a class advisor throughout an academic semester. It should resemble an authentic educational administrative record rather than a graphic design, template, spreadsheet, or computer-generated table.
+
+The register should occupy almost the entire frame.
+
+The notebook must appear large, thick, and heavily used during daily classroom attendance work.
+
+The pages should be cream-colored with slight yellowing due to age and regular handling.
+
+Paper texture must be clearly visible.
+
+The register should contain printed attendance grid lines typical of Indian government educational attendance books.
+
+A visible center fold should run vertically through the middle of the open notebook.
+
+Natural page curvature should be present.
+
+Minor shadows should fall into the fold area.
+
+The pages should show subtle wrinkles, pressure marks from writing, occasional smudges, and slight ink transfer from adjacent pages.
+
+The overall appearance should immediately communicate:
+
+"Real Government Polytechnic Attendance Register Maintained Daily by Hand."
+
+
+---
+
+TITLE SECTION
+
+At the top center of the notebook write entirely in neat blue ballpoint handwriting:
+
+DAILY ATTENDANCE REGISTER
+
+The title should be underlined by hand.
+
+Not perfectly straight.
+
+Slightly human.
+
+No printed typography.
+
+
+---
+
+HEADER INFORMATION
+
+Below the title create realistic handwritten administrative information:
+
+Department : Diploma in Mechanical Engineering (DME)
+
+Semester : III Semester
+
+Academic Year : 2026–2027
+
+Section : A
+
+Class Strength : 45 Students
+
+Month : June 2026 – September 2026
+
+Advisor : Mechanical Department
+
+Institution : Government Polytechnic College
+
+All entries must appear handwritten using blue Reynolds ballpoint pen.
+
+
+---
+
+REGISTER STRUCTURE
+
+The left side should contain:
+
+S.No.
+
+Roll Number
+
+Student Name
+
+The main attendance grid should occupy most of the page.
+
+The right side should contain summary columns:
+
+ABSENT
+
+PRESENT
+
+MEDICAL
+
+TOTAL %
+
+These columns must appear hand-calculated.
+
+
+---
+
+STUDENT LIST
+
+Create realistic South Indian diploma student names with handwritten roll numbers.
+
+R-01 Arun Kumar
+
+R-02 Karthik Raj
+
+R-03 Vijay Selvan
+
+R-04 Ajith Nathan
+
+R-05 Manoj Murugan
+
+R-06 Hari Prasad
+
+R-07 Bala Babu
+
+R-08 Ramesh Das
+
+R-09 Sanjay Prakash
+
+R-10 Siva Velas
+
+R-11 Deepak Kumar
+
+R-12 Praveen Raj
+
+R-13 Dinesh Selvan
+
+R-14 Ganesh Kumar
+
+R-15 Vignesh Raj
+
+R-16 Lokesh Kumar
+
+R-17 Saravanan P
+
+R-18 Mohamed Asif
+
+R-19 Surya Prakash
+
+R-20 Kathiravan R
+
+R-21 Naveen Kumar
+
+R-22 Prithviraj D
+
+R-23 Yogesh Babu
+
+R-24 Arul Dhas
+
+R-25 Ashwin Kumar
+
+R-26 Muthukumar
+
+R-27 Senthil Raj
+
+R-28 Bharath Kumar
+
+R-29 Nandha Kishore
+
+R-30 Kamal Raj
+
+R-31 Sathish Kumar
+
+R-32 Ragul Prakash
+
+R-33 Karthikeyan M
+
+R-34 Vimal Kumar
+
+R-35 Harishankar
+
+R-36 Arun Prasad
+
+R-37 Vivek Kumar
+
+R-38 Jeeva Anand
+
+R-39 Tamilselvan
+
+R-40 Nirmal Raj
+
+R-41 Rakesh Kumar
+
+R-42 Dhanush M
+
+R-43 Prasanth R
+
+R-44 Akash Kumar
+
+R-45 Manoj Selvan
+
+Every name should be handwritten.
+
+Each row should align naturally.
+
+No perfect machine precision.
+
+
+---
+
+DATE COLUMNS
+
+Create 40 attendance columns.
+
+Dates must be handwritten vertically.
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+Dates should resemble how real teachers write attendance registers.
+
+Blue ink.
+
+Slight variation in handwriting.
+
+
+---
+
+ATTENDANCE ENTRIES
+
+The grid should be densely filled.
+
+Most entries must be handwritten:
+
+P
+
+Meaning Present.
+
+Blue ink.
+
+Thousands of handwritten P symbols.
+
+Every P should have slightly different shape.
+
+Different pen pressure.
+
+Different angle.
+
+Natural human variation.
+
+
+---
+
+ABSENT MARKINGS
+
+Use red ink.
+
+Handwritten A symbols.
+
+Scatter naturally.
+
+Avoid obvious repetition.
+
+Avoid mathematical patterns.
+
+Make attendance realistic.
+
+Examples:
+
+One student absent only once.
+
+Another absent twice.
+
+Another absent five times.
+
+A few students may be absent consecutively.
+
+Some students may have perfect attendance.
+
+Some may have medical leave.
+
+
+---
+
+REALISTIC DISTRIBUTION
+
+Excellent attendance students:
+
+1–2 absences.
+
+Average attendance students:
+
+3–6 absences.
+
+Poor attendance students:
+
+7–10 absences.
+
+Create realistic variation.
+
+
+---
+
+MEDICAL LEAVE
+
+Occasionally insert:
+
+M
+
+using red ink.
+
+Medical leave.
+
+Very rare.
+
+Only a few students.
+
+
+---
+
+SUMMARY COLUMNS
+
+For every student calculate:
+
+ABSENT
+
+PRESENT
+
+MEDICAL
+
+TOTAL %
+
+Examples:
+
+4 | 36 | 0 | 90%
+
+2 | 38 | 0 | 95%
+
+6 | 33 | 1 | 85%
+
+1 | 39 | 0 | 98%
+
+5 | 34 | 1 | 87%
+
+Values must appear handwritten.
+
+Human calculations.
+
+
+---
+
+MONTHLY SUMMARY SECTION
+
+At the bottom create handwritten summary rows.
+
+June Summary
+
+July Summary
+
+August Summary
+
+September Summary
+
+
+---
+
+Include:
+
+Total Working Days
+
+Total Attendance
+
+Total Absence
+
+Average Percentage
+
+Department Average
+
+Class Average
+
+
+---
+
+Example values:
+
+June Working Days : 22
+
+July Working Days : 24
+
+August Working Days : 23
+
+September Working Days : 21
+
+Total Working Days : 90
+
+Total Attendance : 3792
+
+Total Absence : 258
+
+Average Attendance : 93.6%
+
+
+---
+
+SIGNATURE SECTION
+
+At the bottom left:
+
+Class Advisor Signature
+
+Realistic cursive signature.
+
+Blue ink.
+
+
+---
+
+Bottom center:
+
+Date : 30/09/2026
+
+Handwritten.
+
+
+---
+
+Bottom right:
+
+Head of Department Signature
+
+Blue ink.
+
+Professional signature.
+
+
+---
+
+HANDWRITING REQUIREMENTS
+
+Everything must be handwritten.
+
+Absolutely no printed fonts.
+
+No computer text.
+
+No digital typography.
+
+No spreadsheet appearance.
+
+The entire page should resemble actual human writing.
+
+Handwriting should vary slightly across different sections.
+
+Teacher-style writing.
+
+Educational record writing.
+
+Indian attendance register handwriting.
+
+
+---
+
+PAPER DETAILS
+
+Cream paper.
+
+Slight yellow aging.
+
+Minor edge wear.
+
+Visible paper fibers.
+
+Light stains.
+
+Small fold marks.
+
+Ink pressure impressions.
+
+Tiny dots.
+
+Occasional overwriting.
+
+Slight correction marks.
+
+Authentic notebook wear.
+
+
+---
+
+INK DETAILS
+
+Blue Reynolds ballpoint pen appearance.
+
+Blue Cello Gripper pen appearance.
+
+Red correction pen appearance.
+
+Different ink density.
+
+Slight skipping.
+
+Minor smearing.
+
+Tiny blobs where pen rested.
+
+Natural writing defects.
+
+
+---
+
+LIGHTING
+
+Natural classroom daylight.
+
+Soft shadows.
+
+Realistic reflections.
+
+Documentary photography style.
+
+No studio lighting.
+
+No dramatic lighting.
+
+Administrative record photography.
+
+
+---
+
+CAMERA
+
+Perfect top-down overhead shot.
+
+Centered composition.
+
+Professional archival documentation.
+
+4K clarity.
+
+Ultra-sharp focus.
+
+Entire register visible.
+
+No perspective distortion.
+
+No tilt.
+
+No blur.
+
+
+---
+
+REALISM ENHANCERS
+
+Finger pressure marks.
+
+Slight page bending.
+
+Uneven line thickness.
+
+Natural notebook fold.
+
+Minor page curl.
+
+Shadow in center binding.
+
+Small writing corrections.
+
+Attendance written on different days.
+
+Ink darkness variation.
+
+Slightly shaky human handwriting.
+
+Authentic government office aesthetic.
+
+Tamil Nadu Polytechnic administration style.
+
+Government educational record appearance.
+
+Used every day for months.
+
+Maintained by a real class advisor.
+
+Not decorative.
+
+Not artistic.
+
+Purely administrative.
+
+Official academic documentation.
+
+
+---
+
+FINAL VISUAL GOAL
+
+The finished image should be indistinguishable from a real photograph of an actual attendance register used in a Tamil Nadu Government Polytechnic College Mechanical Engineering department during the 2026–2027 academic year.
+
+It must contain thousands of individually handwritten attendance entries, realistic student names, authentic attendance patterns, manual calculations, signatures, paper wear, ink imperfections, notebook folds, and educational record authenticity.
+
+Museum-quality realism. Archival-document realism. Hyper-detailed attendance register. Photorealistic educational administration record. Government Polytechnic attendance notebook. 4K square composition. Ultra-realistic handwriting. No printed fonts. Completely handwritten. Indistinguishable from reality.
